@@ -1,7 +1,6 @@
 # Hi, I'm Piyush 👋
 
-| <blockqoute><p>A [Delhilite](https://goo.gl/maps/GkvyAJzzJ6K2) who loves to dig Deep in the woods of Artificial Intelligence. I like to find new ways to solve not so new but interesting problems. Fitting new models to data and articulating new ways to manipulate and personify things is what I think my field is all about. When not working or playing with data, you'll find me in the gym or writing new blog posts.</p></blockqoute> |![](http://www.piyushmalhotra.in/img/me.jpg)|
-|-|:-:|
+<table><tr><td><blockqoute><p style="text-align:left">A [Delhilite](https://goo.gl/maps/GkvyAJzzJ6K2) who loves to dig Deep in the woods of Artificial Intelligence. I like to find new ways to solve not so new but interesting problems. Fitting new models to data and articulating new ways to manipulate and personify things is what I think my field is all about. When not working or playing with data, you'll find me in the gym or writing new blog posts.</p></blockqoute></td><td>![](http://www.piyushmalhotra.in/img/me.jpg)</td></tr></table>
 
 
 <!--
